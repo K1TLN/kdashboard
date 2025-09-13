@@ -1,4 +1,4 @@
-const disableSetup = false;
+const disableSetup = true;
 var topBarCenterText = `Amateur Radio Station K1TLN - Dashboard`;
 
 // Grid layout
