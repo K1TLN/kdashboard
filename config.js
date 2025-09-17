@@ -37,7 +37,7 @@ var aURL = [
   [
     "2196F3",
     "WEATHER",
-    "https://openweathermap.org/weathermap?basemap=map&cities=true&layer=temperature&lat=44.0157&lon=-79.4591&zoom=5",
+    "https://openweathermap.org/weathermap?basemap=map&cities=true&layer=temperature&lat=42.4265&lon=-89.9670&zoom=10",
     "1",
     "R",
   ],
@@ -88,10 +88,10 @@ var aIMG = [
   ],
     ["", "iframe|https://www.youtube.com/embed/sQxL8t0gtu8?autoplay=1&mute=1"],
   [
-    "WEBSITE EXAMPLE",
+    "Flight Data",
     "iframe|https://globe.adsbexchange.com/?airport=ORD",
   ],
-  ["VIDEO EXAMPLE", "https://himawari8.nict.go.jp/movie/720/20240611_pifd.mp4"],
+  ["Weather", "https://weatherstar.netbymatt.com/?hazards-checkbox=true&current-weather-checkbox=true&latest-observations-checkbox=true&hourly-checkbox=true&hourly-graph-checkbox=true&travel-checkbox=true&regional-forecast-checkbox=true&local-forecast-checkbox=true&extended-forecast-checkbox=false&almanac-checkbox=false&spc-outlook-checkbox=true&radar-checkbox=true&settings-wide-checkbox=true&settings-kiosk-checkbox=false&settings-stickyKiosk-checkbox=false&settings-scanLines-checkbox=true&settings-customFeedEnable-checkbox=true&settings-speed-select=1.00&settings-scanLineMode-select=auto&settings-units-select=us&settings-mediaVolume-select=0.25&txtLocation=River+Forest%2C+IL%2C+USA&settings-customFeed-string=&share-link-url=&latLonQuery=River+Forest%2C+IL%2C+USA&latLon={%22lat%22%3A41.894%2C%22lon%22%3A-87.8163}&kiosk=true"],
   ["",
       "iframe|https://www.youtube.com/embed/x10vL6_47Dw?autoplay=1&mute=1"],
 ];
