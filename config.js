@@ -91,7 +91,10 @@ var aIMG = [
     "Flight Data",
     "iframe|https://globe.adsbexchange.com/?airport=ORD",
   ],
-  ["Weather", "https://weatherstar.netbymatt.com/?hazards-checkbox=true&current-weather-checkbox=true&latest-observations-checkbox=true&hourly-checkbox=true&hourly-graph-checkbox=true&travel-checkbox=true&regional-forecast-checkbox=true&local-forecast-checkbox=true&extended-forecast-checkbox=false&almanac-checkbox=false&spc-outlook-checkbox=true&radar-checkbox=true&settings-wide-checkbox=true&settings-kiosk-checkbox=false&settings-stickyKiosk-checkbox=false&settings-scanLines-checkbox=true&settings-customFeedEnable-checkbox=true&settings-speed-select=1.00&settings-scanLineMode-select=auto&settings-units-select=us&settings-mediaVolume-select=0.25&txtLocation=River+Forest%2C+IL%2C+USA&settings-customFeed-string=&share-link-url=&latLonQuery=River+Forest%2C+IL%2C+USA&latLon={%22lat%22%3A41.894%2C%22lon%22%3A-87.8163}&kiosk=true"],
+  [
+    "Weather", 
+    "iframe|https://weatherstar.netbymatt.com/?hazards-checkbox=true&current-weather-checkbox=true&latest-observations-checkbox=true&hourly-checkbox=true&hourly-graph-checkbox=true&travel-checkbox=true&regional-forecast-checkbox=true&local-forecast-checkbox=true&extended-forecast-checkbox=false&almanac-checkbox=false&spc-outlook-checkbox=true&radar-checkbox=true&settings-wide-checkbox=true&settings-kiosk-checkbox=false&settings-stickyKiosk-checkbox=false&settings-scanLines-checkbox=true&settings-customFeedEnable-checkbox=true&settings-speed-select=1.00&settings-scanLineMode-select=auto&settings-units-select=us&settings-mediaVolume-select=0.25&txtLocation=River+Forest%2C+IL%2C+USA&settings-customFeed-string=&share-link-url=&latLonQuery=River+Forest%2C+IL%2C+USA&latLon={%22lat%22%3A41.894%2C%22lon%22%3A-87.8163}&kiosk=true",
+  ],
   ["",
       "iframe|https://www.youtube.com/embed/x10vL6_47Dw?autoplay=1&mute=1"],
 ];
